@@ -3,7 +3,7 @@
 Clipboard dscan helper
 
 Install:
-    pip install pyperclip requests beautifulsoup4
+    pip install pyperclip requests bs4
 
 Run:
     python clipboard_dscan_helper.py
